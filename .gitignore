@@ -32,3 +32,7 @@ override.tf.json
 # Ignore CLI configuration files
 .terraformrc
 terraform.rc
+
+#Ignore GCP SVC Key
+learn-terraform-402022-021118845485.json
+*.json
